@@ -1,0 +1,35 @@
+    body {
+        background-color: #9a1031;
+    }
+    
+    h2 {
+        background-color: #FFFFFF;
+        color: #9a1031;
+        font-family: goutham_thinregular;
+        font-size: xx-large;
+    }
+    
+    p {
+        color: #FFFFFF;
+        font-family: goutham_thinregular;
+    }
+    
+    div {
+        padding: 0px;
+        border: 0px solid #4CAF50;
+    }
+    
+    h4 {
+        margin-left: 1200px;
+        color: #FFFFFF;
+    }
+    
+    h3 {
+        font-size: medium;
+        margin-left: 1200px;
+        color: #FFFFFF;
+    }
+    
+    h4:hover {
+        background-color: lightblue;
+    }
